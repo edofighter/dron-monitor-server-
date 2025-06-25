@@ -1,7 +1,7 @@
 # 🛰️ Servidor de Monitoreo de Drones – Centro de Control
 
 Este proyecto implementa un servidor multicliente en Python que permite recibir, almacenar y analizar datos enviados por drones conectados a través de sockets TCP. Está pensado como un centro de control para monitorear en tiempo real ubicación, batería y carga transportada, generando alertas cuando se detectan condiciones críticas.
-
+Desarrollado con fines educativos y experimentales. Ideal para pruebas de IoT, robótica, automatización o simuladores de logística aérea.
 ## 📦 Características
 
 - 🧠 Soporte multicliente (multi-dron) con `threading`
